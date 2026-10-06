@@ -43,4 +43,4 @@ A vast collection of extra components, modules, and microcontrollers ready to be
 * **Sensors & Modules** (Temperature, Motion, Distance, Relays, Displays, Motors)
 * **General Simulation Components**
 
-For detailed installation instructions on how to add these libraries to Proteus, check out the [Proteus Libraries Guide](./Proteus-Hub/Proteus-Libraries/README.md).
+For detailed installation instructions on how to add these libraries to Proteus, check out the [Proteus Libraries Guide](./Proteus-Libraries/README.md).
