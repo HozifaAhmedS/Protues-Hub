@@ -33,7 +33,6 @@ The repository is structured to organize software files and simulation libraries
 
 ### 1. Proteus 8.13 Pro Software (`/Proteus/Proteus-8.13-Pro`)
 * Pre-activated setup files for Proteus 8.13 SP0 Pro.
-* Spanish language pack (`Pack de Idioma Español`).
 * Pre-packaged Arduino libraries (`Librerias Arduino Proteus`).
 
 ### 2. Proteus Libraries Collection (`/Proteus/Proteus-Libraries`)
@@ -41,7 +40,6 @@ A vast collection of extra components, modules, and microcontrollers ready to be
 * **Arduino Boards** (Uno, Nano, Mega, etc.)
 * **Raspberry Pi** boards & components
 * **USB** connectors and interfaces
-* **Communication Modules** (UART, I2C, SPI, RS-232 / RS-485)
 * **Sensors & Modules** (Temperature, Motion, Distance, Relays, Displays, Motors)
 * **General Simulation Components**
 
